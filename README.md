@@ -36,7 +36,8 @@ admin.site.register(product)
 ```
 # OUTPUT
 
-![alt text](../image.png)
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/0db0e351-41a1-491c-9171-6377331b1cce" />
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
