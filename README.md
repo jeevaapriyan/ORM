@@ -39,7 +39,7 @@ admin.site.register(product)
 
 # OUTPUT
 
-![alt text](<web/Screenshot (118).png>)
+![alt text](<Screenshot (118).png>)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
