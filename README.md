@@ -38,7 +38,8 @@ admin.site.register(product)
 ```
 
 # OUTPUT
-![alt text](image.png)
+
+c:\Users\acer\OneDrive\Desktop\visual_studio\ORM\image.png
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
