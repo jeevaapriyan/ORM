@@ -17,8 +17,9 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 cars
 
 # PROGRAM
-model.py 
 ```
+model.py
+ 
 from django.db import models
 from django.contrib import admin
 
@@ -28,8 +29,9 @@ class product(models.Model):
     fuel_type=models.CharField(max_length=20)
     product_price=models.CharField(max_length=20)
 ```
-admin.py 
 ```
+admin.py 
+
 from django.contrib import admin
 from .models import product
 admin.site.register(product)
